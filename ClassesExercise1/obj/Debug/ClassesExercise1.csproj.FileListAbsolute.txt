@@ -1,0 +1,7 @@
+C:\Users\Ákos\source\repos\ClassesExercise1\ClassesExercise1\bin\Debug\ClassesExercise1.exe.config
+C:\Users\Ákos\source\repos\ClassesExercise1\ClassesExercise1\bin\Debug\ClassesExercise1.exe
+C:\Users\Ákos\source\repos\ClassesExercise1\ClassesExercise1\bin\Debug\ClassesExercise1.pdb
+C:\Users\Ákos\source\repos\ClassesExercise1\ClassesExercise1\obj\Debug\ClassesExercise1.csprojAssemblyReference.cache
+C:\Users\Ákos\source\repos\ClassesExercise1\ClassesExercise1\obj\Debug\ClassesExercise1.csproj.CoreCompileInputs.cache
+C:\Users\Ákos\source\repos\ClassesExercise1\ClassesExercise1\obj\Debug\ClassesExercise1.exe
+C:\Users\Ákos\source\repos\ClassesExercise1\ClassesExercise1\obj\Debug\ClassesExercise1.pdb
